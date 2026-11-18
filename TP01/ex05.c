@@ -3,7 +3,7 @@
 int main(void) {
     int number;
 
-    number = 7;
+    number = 8;
     if (number % 2 == 0) {
         printf("pair\n");
     } else {
