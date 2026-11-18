@@ -3,7 +3,7 @@
 int main(void) {
     int age;
 
-    age = 25;
+    age = 61;
     if (age <= 1) {
         printf("bonjour bebe !\n");
     } else if (age <= 14) {
