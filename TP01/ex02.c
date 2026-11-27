@@ -4,7 +4,7 @@ int main(void) {
     int number;
     int i;
 
-    number = 3;
+    number = -1;
     i = 0;
     while (i < number) {
         write(1, "Jonathan\n", 9);

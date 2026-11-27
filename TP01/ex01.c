@@ -4,7 +4,7 @@ int main(void) {
     int number;
     int i;
 
-    number = 5;
+    number = -1;
     i = 0;
     while (i < number) {
         printf("%d\n", i);

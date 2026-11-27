@@ -10,8 +10,8 @@ int main(void) {
     double racine;
 
     a = 1;
-    b = -3;
-    c = 2;
+    b = 2;
+    c = 1;
     delta = b * b - 4 * a * c;
     printf("Delta = %d\n", delta);
 

@@ -6,7 +6,7 @@ int main(void) {
     int i;
     int total;
 
-    number = 4;
+    number = 999;
     total = 0;
     i = 1;
     while (i <= number) {
